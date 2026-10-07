@@ -4,12 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>عبدالله | مطور ويب - صور عمان</title>
-<style>
-body{font-family: Tahoma; background:#f5f8ff; margin:0; text-align:center}
-.header{background:#0d47a1; color:white; padding:30px}
-.card{background:white; margin:20px; padding:20px; border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.1)}
-.btn{display:inline-block; padding:15px 30px; background:#0d47a1; color:white; text-decoration:none; border-radius:10px; margin:10px}
-</style>
+
 </head>
 <body>
 <div class="header">

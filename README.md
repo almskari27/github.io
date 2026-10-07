@@ -23,6 +23,7 @@
 <p>متابعة لحظية للأسطول - خريطة مباشرة</p>
 <a class="btn" href="https://abdullahsur.com/anwars/car/supervisor.php?state=28611" target="_blank">عرض نظام التتبع</a>
 </div>
+</html>
 
 <div class="card">
 <h3>تواصل معي</h3>
